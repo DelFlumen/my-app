@@ -1,0 +1,7 @@
+name: "Hello World"
+description: "Create a New Github Action"
+author: "Yaroslav <hello@yaroslav.com>"
+
+runs:
+  using: "node16"
+  main: "index.js"
